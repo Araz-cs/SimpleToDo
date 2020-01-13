@@ -4,7 +4,7 @@
 
 Submitted by: **Araz Sultanian**
 
-Time spent: **2-3** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Araz Sultanian]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
